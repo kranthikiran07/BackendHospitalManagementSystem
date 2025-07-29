@@ -54,7 +54,7 @@ Concepts	OOP, Classes, ArrayList, Switch-Case
 
 1. Clone or Download
 
-git clone https://github.com/your-username/HospitalManagementSystem.git
+git clone https://github.com/kranthikiran07/BackendHospitalManagementSystem.git
 
 
 2. Open in IntelliJ or VS Code
